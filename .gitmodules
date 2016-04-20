@@ -1,0 +1,6 @@
+[submodule "MonaLisa"]
+	path = MonaLisa
+	url = https://github.com/pzp1997/MonaLisa.git
+[submodule "TheSonOfMan"]
+	path = TheSonOfMan
+	url = https://github.com/pzp1997/TheSonOfMan.git
